@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerRemMusicMVC", "ServerRemMusicMVC\ServerRemMusicMVC.csproj", "{FAF6475D-9345-45E8-825D-606BBFF8CF45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAF6475D-9345-45E8-825D-606BBFF8CF45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAF6475D-9345-45E8-825D-606BBFF8CF45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAF6475D-9345-45E8-825D-606BBFF8CF45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAF6475D-9345-45E8-825D-606BBFF8CF45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D615ABD2-2E5E-4AFA-AA72-B9D9CE91FB24}
+	EndGlobalSection
+EndGlobal
